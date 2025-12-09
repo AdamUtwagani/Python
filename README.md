@@ -1,7 +1,7 @@
-🐍 Python Learning Journey
+Python Learning Journey
 
-Welcome to my Python Learning Repository — a collection of everything I’ve learned while mastering Python step by step.
-This repo is my digital notebook, portfolio, and reference library — built through practice, mistakes, and progress.
+Welcome to my Python Learning Repository, a collection of everything I’ve learned while mastering Python step by step.
+This repo is my digital notebook, portfolio, and reference library built through practice, mistakes, and progress.
 
 What This Repo Covers
 
